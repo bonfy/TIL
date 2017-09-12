@@ -18,8 +18,8 @@ class BaseModel(Model):
 ```python
 class BaseModel(Model):
     
-    object_id = UUIDField(default=uuid.uuid1())
-    created_at = DateTimeField(default=datetime.datetime.now())
+    object_id = UUIDField(default=uuid.uuid1)
+    created_at = DateTimeField(default=datetime.datetime.now)
 ```
 
 ## peewee 的 create_tables
