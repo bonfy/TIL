@@ -32,7 +32,7 @@ class BaseModel(Model):
 正确的写法：
 
 ```python
-db.create_tables([Class1, Class2])
+db.create_tables([Class1, Class2])
 ```
 
 
