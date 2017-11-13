@@ -1,7 +1,6 @@
 # Learn Vim In a Week
 
 > [https://www.youtube.com/watch?v=_NUO4JEtkDw](https://www.youtube.com/watch?v=_NUO4JEtkDw)
-
 > [CheatSheet](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
 
 ## Tips
